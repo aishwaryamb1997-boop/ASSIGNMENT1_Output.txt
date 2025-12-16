@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prodigy technovation\\source\\repos\\Task1_output.txt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8391B01-4C30-45E4-9B78-4E33123042D3}|Task1_output.txt\\Task1_output.txt.csproj|c:\\users\\prodigy technovation\\source\\repos\\task1_output.txt\\task1_output.txt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8391B01-4C30-45E4-9B78-4E33123042D3}|Task1_output.txt\\Task1_output.txt.csproj|solutionrelative:task1_output.txt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prodigy technovation\\source\\repos\\Task1_output.txt\\Task1_output.txt\\Program.cs",
+              "RelativeDocumentMoniker": "Task1_output.txt\\Program.cs",
+              "ToolTip": "C:\\Users\\Prodigy technovation\\source\\repos\\Task1_output.txt\\Task1_output.txt\\Program.cs",
+              "RelativeToolTip": "Task1_output.txt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:05:11.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

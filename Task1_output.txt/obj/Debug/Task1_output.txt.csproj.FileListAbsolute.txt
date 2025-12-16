@@ -1,0 +1,8 @@
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\bin\Debug\Task1_output.txt.exe.config
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\bin\Debug\Task1_output.txt.exe
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\bin\Debug\Task1_output.txt.pdb
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\obj\Debug\Task1_output.txt.csproj.AssemblyReference.cache
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\obj\Debug\Task1_output.txt.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\obj\Debug\Task1_output.txt.exe
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\obj\Debug\Task1_output.txt.pdb
+C:\Users\Prodigy technovation\source\repos\Task1_output.txt\Task1_output.txt\obj\Debug\Task1_output.txt.exe.config
